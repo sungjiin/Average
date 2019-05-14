@@ -1,0 +1,6 @@
+﻿  midAvg.cpp
+c:\users\ka\source\repos\midavg\midavg.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ka\source\repos\midavg\midavg.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ka\source\repos\midavg\midavg.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ka\source\repos\midavg\midavg.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  midAvg.vcxproj -> C:\Users\Ka\source\repos\midAvg\Debug\midAvg.exe
